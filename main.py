@@ -23,7 +23,7 @@ GIF_QUANTIZE_COLORS = 256  # GIF调色板颜色数量 (0表示不量化，但通
 GIF_QUANTIZE_METHOD = Image.Quantize.FASTOCTREE  # 调色板量化方法: MEDIANCUT, MAXCOVERAGE, FASTOCTREE
 GIF_DITHER_METHOD = Image.Dither.FLOYDSTEINBERG  # 抖动方法: None, FLOYDSTEINBERG (用于改善颜色过渡)
 
-# demo展示HTML内容
+# demo展示HTML内容，在此做对其修改
 html_content = """
 <div class="JQ9dA4iS">
   <div class="QIM57_rn">
